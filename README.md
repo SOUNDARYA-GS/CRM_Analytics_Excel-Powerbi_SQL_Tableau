@@ -84,9 +84,7 @@ This project addresses the following key questions:
 
 │
 
-├── crm_requirements.pdf         # Business Requirements
-
-├── crm_executive_summary.pdf    # Executive Summary
+├── crm_pdf_file                # Executive Summary, Key findings
 
 └── README.md                         # Project Documentation
 
@@ -138,8 +136,34 @@ The interactive dashboards include:
 - **Tree Map:** Opportunity Type Share  
 - **Bar Chart:** Top Industries by Expected Revenue  
 
-📌 **Dashboard Preview:**  
-*(Insert screenshot or Tableau Public link if available)*  
+## 📊 Dashboard Preview  
+
+### 🧠 Power BI Dashboard  
+<p align="center">
+  <img src="./Power%20BI%20Dashboard%20image.png" alt="Power BI Dashboard" width="750"/>
+</p>
+
+---
+
+### 📈 Tableau Dashboard  
+<p align="center">
+  <img src="./Tableau%20Dashboard%20image.png" alt="Tableau Dashboard" width="750"/>
+</p>
+
+---
+
+### 📊 Excel Dashboard  
+<p align="center">
+  <img src="./Excel%20Dashboard%20image.png" alt="Excel Dashboard" width="750"/>
+</p>
+
+---
+
+### 💾 SQL Queries Overview  
+<p align="center">
+  <img src="./SQL%20Queries%20image.png" alt="SQL Queries" width="750"/>
+</p>
+
 
 ---
 
